@@ -1,90 +1,318 @@
-<!-- Profile README for github.com/AdolfBharath -->
-
+```markdown
 <div align="center">
 
-# Adolf Bharath
-### 🛡️ Blue Teamer | DevSecOps Developer
+# 🕷️ Bharath Murugan
 
-<a href="https://github.com/AdolfBharath">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Blue+Team+Engineering+%7C+Threat+Detection;Insider+Threat+Analysis+%7C+Malware+%26+Binary+Analysis;DevSecOps+Fundamentals+%7C+Secure+CI%2FCD+Pipelines;Vulnerability+Research+%7C+Safe+Security+Labs" />
-</a>
+### Cyber Security Engineer • Software Developer • AI Builder
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=900&lines=With+Great+Power+Comes+Great+Responsibility.;Cyber+Security+Student.;Software+Development+Intern+@+Jenovate.;Building+AI+Travel+Planner.;Building+Secure+Applications.;Always+Learning+Something+New." />
 
-<img alt="Security Animation" width="680" src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AdolfBharath&style=for-the-badge&color=red"/>
 
 </div>
 
 ---
 
-## 👤 About Me
+# 🕸 About Me
 
-I am a **Blue Team-focused security engineer** with hands-on experience in **threat detection, malware analysis, and secure lab environments**.  
-I build defensive tools and controlled environments to analyze vulnerabilities, insider threats, and malicious behavior while following safe and ethical practices.
+Hi 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="380" alt="Spider-Man coding"/>
-</p>
+I'm **Bharath Murugan**, a **Cyber Security Engineering student** passionate about building secure software, AI-powered applications, and modern web solutions.
 
----
+Currently working as a **Software Development Intern at Jenovate**, where I contribute to the development of a Learning Management System (LMS), modern dashboards, backend APIs, authentication modules, and secure application features.
 
-## 🚀 Projects & Implementations
+I believe:
 
-| Project Name | Objective | Description | Technologies | Status |
-|---|---|---|---|---|
-| **Insider Threat Analyzer** | Detect anomalous internal activity | Python-based system to analyze user behavior and flag suspicious patterns | Python, MySQL, MongoDB | ✅ Deployed |
-| **Deepfake Image Analyzer** | Identify manipulated images | Image analysis logic to detect deepfake indicators | Python | ✅ Completed |
-| **Secure Vulnerability Lab – MongoBleed** | Analyze CVE safely | Isolated lab for **CVE-2025-14847 (MongoBleed)** analysis | Docker, MongoDB, Linux | ✅ Completed |
-| **Malware & Binary Analysis Lab** | Understand malware internals | Static & debugging analysis of binaries | Ghidra, Debuggers, Assembly | 🔄 Ongoing |
-| **Network Traffic Analysis Lab** | Inspect suspicious traffic | Packet capture & protocol analysis | Wireshark | ✅ Completed |
-| **Secure CI/CD Practice Pipeline** | Learn DevSecOps flows | Secure build & pipeline practice | Git, GitHub, Jenkins, Docker | 🔄 Learning |
+> **"With great power comes great responsibility."**
+
+That philosophy guides how I approach cybersecurity and software development.
 
 ---
 
-## 🧰 Tools & Technologies
+# 🕷 Current Focus
 
-### Programming & Scripting
-[![Programming](https://skillicons.dev/icons?i=python,bash,html,css,js&perline=8)](https://skillicons.dev)
+🔴 Software Development
 
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=8)](https://skillicons.dev)
+🛡 Cyber Security
 
-### DevOps & Containers
-[![DevOps](https://skillicons.dev/icons?i=docker,git,github,jenkins&perline=8)](https://skillicons.dev)
+🤖 Artificial Intelligence
 
-### Security & Analysis Tools
-[![Security](https://skillicons.dev/icons?i=wireshark&perline=8)](https://skillicons.dev)
+🌍 AI Travel Planner
 
-**Additional Security Tools**
+🎓 Learning Management Systems
+
+☁ Cloud & DevSecOps
+
+---
+
+# 💼 Experience
+
+## 🚀 Software Development Intern
+
+### Jenovate
+
+Working on:
+
+- Student Learning Management System
+- Admin Dashboard
+- Authentication System
+- Secure API Development
+- Database Management
+- Responsive UI/UX
+- Full Stack Development
+- Secure Software Practices
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 AI Travel Planner
+
+An AI-powered travel planning platform.
+
+### Features
+
+- AI itinerary generation
+- Budget planner
+- Hidden destinations
+- Popular tourist attractions
+- Hotel recommendations
+- Image-rich destination explorer
+- Interactive maps
+- Multi-country support
+
+**Tech Stack**
+
+React • Node.js • Gemini API • Maps API • Supabase
+
+---
+
+## 🎓 Jenovate LMS
+
+Modern Learning Management System.
+
+### Features
+
+- Student Portal
+- Admin Portal
+- Authentication
+- Attendance
+- Assignments
+- Course Management
+- Notifications
+- Dashboard
+- Analytics
+
+**Tech Stack**
+
+React • Supabase • Node.js • PostgreSQL
+
+---
+
+## 🧠 Deepfake Detection
+
+AI-powered image analysis system for detecting manipulated images.
+
+**Tech**
+
+Python
+
+TensorFlow
+
+OpenCV
+
+EfficientNet
+
+Flask
+
+---
+
+## 🛡 Insider Threat Analyzer
+
+Behavior analysis system to detect suspicious user activities.
+
+**Tech**
+
+Python
+
+MySQL
+
+MongoDB
+
+---
+
+## 🔬 Malware Analysis Lab
+
+Personal research environment for
+
+- Malware Analysis
+- Reverse Engineering
+- Static Analysis
+- Dynamic Analysis
+- Binary Inspection
+
+Tools
+
 - Ghidra
-- Debuggers (GDB / x64dbg)
-- Assembly (x86 analysis)
+- x64dbg
+- Wireshark
+- Burp Suite
+- Metasploit
+- Linux
 
 ---
 
-## 🕸️ Security Philosophy
+# 💻 Tech Stack
 
-> **“With great power comes great responsibility.”**  
-> I apply this principle to defensive security — building tools that are safe, controlled, and production-aware.
+## Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+
+![Java](https://skillicons.dev/icons?i=java)
+
+![C](https://skillicons.dev/icons?i=c)
+
+![HTML](https://skillicons.dev/icons?i=html)
+
+![CSS](https://skillicons.dev/icons?i=css)
+
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+---
+
+## Frameworks
+
+![React](https://skillicons.dev/icons?i=react)
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+![Flask](https://skillicons.dev/icons?i=flask)
+
+---
+
+## Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+---
+
+## DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker)
+
+![Git](https://skillicons.dev/icons?i=git)
+
+![Github](https://skillicons.dev/icons?i=github)
+
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+# 🔐 Security Tools
+
+- Wireshark
+- Burp Suite
+- Metasploit
+- Nmap
+- OWASP ZAP
+- Ghidra
+- x64dbg
+- John the Ripper
+- Kali Linux
+
+---
+
+# 📜 Certifications
+
+🏆 Cisco Networking Academy
+
+- Introduction to Cybersecurity
+- Networking Basics
+- Python Essentials
+- Linux Essentials
+
+📚 Currently Learning
+
+- DevSecOps
+- Cloud Security
+- Detection Engineering
+- Malware Analysis
+
+---
+
+# 🏅 Achievements
+
+💼 Software Development Intern
+
+---
+
+# 🌱 Currently Learning
+
+- DevSecOps
+- Azure
+- Secure Coding
+- Threat Detection
+- AI Security
+- Reverse Engineering
+- Cloud Security
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="360" alt="Spider-Man responsibility"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdolfBharath&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdolfBharath&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfBharath&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdolfBharath&theme=github-dark-blue&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfBharath&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdolfBharath&theme=tokyonight&no-frame=true"/>
+
 </p>
 
 ---
 
-## 📫 Contact
+# 🤝 Connect With Me
 
-- GitHub: https://github.com/AdolfBharath
-- LinkedIn: https://www.linkedin.com/in/bharathmurugan0663781
-- Email: bharath0663781@gmail.com
+📧 **bharath0663781@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/bharathmurugan0663781
+
+💻 GitHub
+
+https://github.com/AdolfBharath
+
+---
+
+<div align="center">
+
+## 🕷
+
+### "With Great Power Comes Great Responsibility."
+
+**Friendly Neighborhood Developer.**
+
+Building secure software, one project at a time.
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
+```
