@@ -514,8 +514,9 @@
 <a href="mailto:bharath0663781@gmail.com">
   <img src="https://img.shields.io/badge/Email-bharath0663781%40gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bharath Murugan" />
 </a>
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-38bdf8?style=for-the-badge&logo=vercel&logoColor=020617" alt="Portfolio coming soon" />
-
+<a href="https://adolfbharath.github.io/Portfolio-/#home">
+  <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+</a>
 </div>
 
 <br />
